@@ -84,7 +84,6 @@ define( 'WP_DEBUG', false );
 /* Add any custom values between this line and the "stop editing" line. */
 
 /*  Hellow World*/
-/*  Hellow World*/
 
 
 /* That's all, stop editing! Happy publishing. */
