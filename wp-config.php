@@ -83,6 +83,7 @@ define( 'WP_DEBUG', false );
 
 /* Add any custom values between this line and the "stop editing" line. */
 
+/*  Hellow World*/
 
 
 /* That's all, stop editing! Happy publishing. */
@@ -93,4 +94,4 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 /** Sets up WordPress vars and included files. */
-require_once ABSPATH . 'wp-settings.php';
+require_once ABSPATH . 'wp-settings.php'; 
